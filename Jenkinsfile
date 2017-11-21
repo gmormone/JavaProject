@@ -12,4 +12,5 @@ pipeline {
       archive 'dist/*.jar'
     }
   }
+
 }
